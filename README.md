@@ -30,38 +30,16 @@ O projeto utiliza as seguintes tecnologias e bibliotecas:
 
 E muito mais...
 
-## 🛠️ Abrir e rodar o projeto
+## 📁 Acesso ao projeto
 
-Para executar o projeto em seu ambiente local, siga estas etapas:
+- ### [Deploy do Jornada Milhas](https://jornada-milhas-nine.vercel.app/)
 
-1. Certifique-se de ter o Node.js instalado em sua máquina. Nós usamos a versão 20.10.0
+- ### [GitHub do Jornada Milhas](https://github.com/Misael1981/Jornada-Milhas)
 
-2. Baixe o repositório do projeto.
-
-3. Extraia os arquivos para uma pasta de sua preferência.
-
-4. Navegue até a pasta em questão via terminal (cmd):
-
-```bash
-cd 3787-react-pwa
-```
-
-5. Instale as dependências usando o npm:
-
-```bash
-npm install
-```
-
-6. Inicie o projeto localmente:
-
-```bash
-npm run dev
-```
-
-## 📚 Mais informações do curso
-
-Gostou do projeto e quer conhecer mais?
-
-O design e protótipo deste projeto podem ser encontrados [aqui](https://www.figma.com/file/C9Hwa6VpPKLSM6pJVCMZgI/Jornada-Milhas-%7C-React-Service-Workers?type=design&node-id=0-1&mode=design&t=rZNRLbySPNz2Ugjf-0).
-
-Aproveite o desenvolvimento e aprimoramento da Jornada Milhas!
+<h2> 📞 Contato</h2>
+<div> 
+  <a href="https://instagram.com/misaelvborges" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:misaelborges1981@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/misael-borges-5a5214181" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href= https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white></a>
+</div>
